@@ -3,7 +3,7 @@ on: push
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: jsprute/catalog-service
+  IMAGE_NAME: jsprute/config-service
   VERSION: latest
 
 jobs:
